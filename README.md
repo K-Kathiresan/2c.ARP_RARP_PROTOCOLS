@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+## Name:Kathiresan K
+## Reg no:212223110021
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
